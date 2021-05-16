@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Exhibition</string>
+    <string name="txt_similar_images">Random Dog Images</string>
+    <string name="txt_empty_random_images">Ooops, no images. Try it again with another dog breed!</string>
+</resources>
